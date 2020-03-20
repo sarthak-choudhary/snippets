@@ -1,0 +1,2 @@
+# snippets
+Rest API - DjangoRestFramework
